@@ -23,6 +23,7 @@ $(function(){
 
     //ADD COLLAPSE AND EXPAND BUTTONS
     $("#toc").append('<div id="hideall">Collapse</div><div id="showall">Expand</div>')
+    $("#toc").append('<div><a href="Syllabus.pdf">Download PDF</a></div>');
     $("#showall").click(function(){triggerall(this,false);});
     $("#hideall").click(function(){triggerall(this,true);});
     
