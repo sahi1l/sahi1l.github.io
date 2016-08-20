@@ -226,6 +226,9 @@ div#middle>div {display:block;text-align:center;}
     #classwrapper {width:100%;}
     #weeklyT {font-size:50% !important;padding-left:0px;}
     .ui-tabs-panel {padding-left:0px !important;}
+#chatframe {
+           max-width:300px;
+}
 }
 @media (max-width:1152px) {
     #assignments {float:none;}
