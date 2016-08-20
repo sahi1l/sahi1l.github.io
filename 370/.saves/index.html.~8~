@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" href="favicon.png" />
 <link rel="stylesheet" href="../lib/jquery-ui.css">
-<link rel="stylesheet" type="text/css" href="../lib/main.css">
+<link rel="stylesheet" type="text/css" href="lib/index.css">
 <link rel="stylesheet" type="text/css" href="lib/color.css">
 <link rel="stylesheet" type="text/css" href="../lib/adrian.css">
 <SCRIPT SRC="../lib/jquery.js"></SCRIPT>
@@ -26,8 +27,7 @@ activate:function(){Cookies.set("tab",$("#tabs").tabs("option","active"),{expire
 
 <link href="http://fonts.googleapis.com/css?family=Lato:400,300" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Shadows+Into+Light+Two" rel="stylesheet" type="text/css">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Adrian College Physics 101, Fall 2016</title>
+<title>Adrian College Physics 370, Fall 2016</title>
 <body>
 <DIV id="adrian">
 <A HREF="http://www.adrian.edu" id="adriancollege">Adrian&nbsp;College</A>
@@ -37,8 +37,8 @@ activate:function(){Cookies.set("tab",$("#tabs").tabs("option","active"),{expire
 </DIV>
 <div style="display:inline-block;">
 <div class="class">
-<h1 id="number">Physics 101</h1>
-<p id="name">Introductory Physics I</p>
+<h1 id="number">Physics 370</h1>
+<p id="name">Modern Physics</p>
 <p id="semester">Fall 2016</p>
 </div>
 <DIV id="professor">
@@ -74,9 +74,6 @@ activate:function(){Cookies.set("tab",$("#tabs").tabs("option","active"),{expire
 </ul><div id="news">
 <h2>News</h2><ul>
 
-<li>
-<DIV class="updated">Posted 7/18:</DIV>
- Welcome to Physics 101!  The website is still under construction...
 </ul></div>
 <div id="assignments">
 <div id="weekly">
@@ -92,7 +89,7 @@ activate:function(){Cookies.set("tab",$("#tabs").tabs("option","active"),{expire
 <TH>Wednesday
 <TH>Friday<!--1,1--><TR class="current"><TD class="weeknumber">1
 <TD class="date">8/22
-<TD class="topic">Motion Diagrams	<TD class="chapter">1
+<TD class="topic">Special Relativity	<TD class="chapter">1
 
 <TD class="homework">&nbsp;
 	<BR>&nbsp;
@@ -110,4 +107,4 @@ activate:function(){Cookies.set("tab",$("#tabs").tabs("option","active"),{expire
 </TABLE></DIV>
 </div>
 <div id="chat">
-<iframe width="500" height="500" scrolling="no" src="http://hillbook.nfshost.com/Chat/index.html"></iframe></div></div>
+Chat to be implemented!</div></div>
