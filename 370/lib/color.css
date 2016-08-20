@@ -1,0 +1,65 @@
+
+div#middle>div,
+div.class #name,
+body.Syllabus #courseName
+{/*dark*/
+    background-color:                           #22c8a4;
+}
+body.Syllabus #courseNumber
+{/*dark*/
+    color: #22c8a4;
+}
+body {/*lvle*/
+     background-color:                          #eefaf8;
+}
+
+
+div#professor li:nth-child(odd),
+div#assignments tr>th:nth-child(odd),
+div#assignments tr>td:nth-child(odd)
+{/*lvld*/
+     background-color:                            #ddf6f1;
+}
+
+div#news li:nth-child(odd),
+div#assignments tr>td:nth-child(even),
+div#assignments tr>th:nth-child(even),
+div.class,
+body.Syllabus ul.schedule li.exam,
+body.Syllabus table.gradescale tr:nth-child(3) td
+{/*lvlb*/
+     background-color:                            #bbeee3;
+}
+
+div#news li:nth-child(even) {/*lvl7*/
+	background-color: #77ddc7;
+}
+
+div.class,
+div#professor,
+div#news,
+div#assignments,
+div#assignments table,
+#syllabus,
+#gradeframe
+{ /*shadow*/
+    box-shadow: 5px 5px 5px                     #aacdcf;
+}
+
+
+/*current*/
+tr.current td:nth-child(odd) {/*curlight*/
+    background-color:                           #9cc786 !important;
+}
+tr.current td:nth-child(even) {/*curdark*/
+    background-color:                           #dfca7f !important;
+}
+#syllabus {/*textshadow*/
+text-shadow: 0px 0px 5px #00604b; font-weight:900;}
+
+body.Syllabus h3 {/*grad,grad*/
+background: transparent linear-gradient(to right,rgb(153,229,213),rgba(153,229,213,0));
+}
+
+#toc a {color:#0f0;}
+#toc a:visited {color:#080;}

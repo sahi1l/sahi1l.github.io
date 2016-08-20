@@ -1,0 +1,15 @@
+31,34c31,34
+< <DIV id="adrian">
+< <A HREF="http://www.adrian.edu">Adrian&nbsp;College</A>
+<  <img src="img/adrianlogo.gif" alt="" height="20" style="vertical-align:middle"/>
+< <A HREF="http://adrian.edu/academics/academic-departments/physics/">
+---
+> <DIV id="adrian" style="vertical-align:middle; font-family:Avenir">
+> <A style="font-weight:900;border-right:1px #FAC723 solid;padding-right:4px;" HREF="http://www.adrian.edu">Adrian&nbsp;College</A>
+> <!-- <img src="img/adrianlogo.gif" alt="" height="20" style="vertical-align:middle"/>-->
+> <A style="font-size:80%;" HREF="http://adrian.edu/academics/academic-departments/physics/">
+110c110
+< <iframe width="100%" height="400px" src="http://sahill.nfshost.com/Grades/370/index.html"></iframe></div></div>
+\ No newline at end of file
+---
+> <iframe width="100%" height="400px" src="http://sahill.nfshost.com/Grades/370/index.html"></iframe></div></div>
