@@ -1,0 +1,204 @@
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<link rel="icon" type="image/png" href="../favicon.png" />
+<link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Roboto'
+rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Raleway:400,700,900'
+rel='stylesheet' type='text/css'>
+<link href="http://fonts.googleapis.com/css?family=Lato:400,300" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="syllabus.css" type="text/css" />
+<link rel="stylesheet" href="../lib/color.css" type="text/css" />
+<script src="../lib/jquery.js" type="text/javascript"></script>
+<script src="syllabus.js" type="text/javascript"></script>
+<title>Physics 451 Syllabus, Fall 2016</title>
+<link rel="stylesheet" type="text/css" href="../lib/adrian.css" />
+<style type="text/css">    
+table.schedule
+    {border-collapse:collapse;display:inline-block;vertical-align:top;
+padding:5px 10px; margin-top:20px;
+    }
+    table.schedule td,th {
+    text-align:center;
+    border:1px solid;
+    padding:4px;
+    }
+  </style></head>
+<body class="Syllabus">
+<!--ADRIAN HEADER-->
+<div id="adrian"><a href="http://www.adrian.edu" id="adriancollege">Adrian College</a> <a href="http://adrian.edu/academics/academic-departments/physics/" id="deptphysics">Department of Physics</a>
+</div><!--END ADRIAN HEADER-->
+<div style="height:70px;">
+<h2 id="courseNumber" class="tbd">Physics 451</h2>
+<h1 id="courseName" class="tbd">Thermodynamics (IS)</h1>
+<h2>Fall 2016</h2><!--<h2><b>MWF 10-10:50am in Peelle 207</b></h2>-->
+<div id="accordion">
+<h3><a name="Instructor">Instructor</a></h3>
+<div class="section" style="vertical-align:middle">
+<span style="text-align:center"><b style="font-size:125%">Scott A. Hill</b>
+<br />
+<img src="../img/me.jpg" width="100" style="border:2px solid;" />
+<br />Assistant Professor of Physics
+<br />Ph.D., University of Chicago, 2002
+</span>
+<span>
+<dl>
+<dt><span>Email</span></dt><dd><span>shill@adrian.edu</span></dd>
+<dt><span>Instant<br />Messaging</span></dt><dd><span>doogadgit (AIM)<br />physhill (Google Chat)<br />567-343-2284 (SMS)</span></dd>
+<dt><span>Phone</span></dt><dd><span>(517) 265-5161 <b>x4578</b></span></dd>
+<dt><span>Office Location</span></dt><dd><span>Peelle 208</span></dd>
+<dt><span>Office Hours</span></dt><dd><span>Mondays and Fridays 11am-noon<br />Tuesdays and Thursdays 1-2pm<br />or by appointment</span></dd></dl>
+</span>
+</div>
+<!--
+    <dt>Lab Location: <dd class="tbd"></dd>
+    <dt>Lab Day/Time: <dd class="tbd"></dd>
+    -->
+</div>
+<h3><a name="Description">Description</a></h3>
+<div class="section"><p>Thermodynamics is the study of the bulk macroscopic quantities of systems containing large numbers of individual components. With the use of simple models, we use statistical analysis to derive quantities such as temperature, pressure, and entropy, determine the properties of a material at equilibrium, and analyze the flow of energy, in the form of heat and work, between macroscopic systems.
+</p></div><h3>HLC Credit Hour Statement</h3>
+<div class="section">
+The credit hour calculation includes a 1 hour weekly meeting, 2 hours of reading the textbook (including working through derivations and example problems), and 4 hours a week working on homework problems. The course will cover 13 weeks, for a total of (1+2+4)× 13 = 91 hours of effort, sufficient for a two-credit course.
+</div><h3><a name="Goals">Course Goals</a></h3>
+<div class="section">On successful completion of this course, you will be able to do the following:
+<div class="section"><ul>
+<li>Identify and distinguish forms of energy in thermal physics</li>
+<li>Compute energy exchange during thermodynamic processes</li>
+<li>Explain the concept of entropy and its application to many-particle physical systems</li>
+<li>Calculate the probability of many-particle macrostates using statistical methods</li>
+<li>Work with a variety of practical thermodynamics systems and processes</li>
+<li>Solve advanced quantitative problems involving thermodynamic concepts</li></ul></div>
+</div><h3><a name="Textbook">Required Materials</a></h3>
+<div class="section"><h4>Textbook
+</h4><i>An Introduction to Thermal Physics</i> by Daniel V. Schroeder (2000). ISBN 0-201-38027-7.
+</div>
+<div class="break"></div><h3 class="ongoing"><a name="Grading">Assessment</a></h3>
+<div class="section"><ul>
+<li><h4>Weekly Participation (20% of grade)
+</h4>Each Friday, the student will be given a reading assignment and a set of problems. We will meet on Wednesday at 11am to discuss the reading, and the student will present her initial solutions to the problems. Her preparation each week will be graded on a scale of 3 points:<ul>
+<li>3 points: has made significant progress on all problems and is able to discuss the reading</li>
+<li>2 points: has made progress on some of the problems</li>
+<li>1 point: has done the reading, but has not begun the homework in any significant way.</li>
+<li>0 points: has not prepared</li></ul>The student is permitted to postpone an assignment until the following week <b>one time</b>, by notifying the instructor before 11:15 on Wednesday.</li>
+<li><h4>Homework (30%)
+</h4>The student will submit the completed homework assignment by Friday at 3pm for a grade. Assignments will only be accepted late at the discretion of the instructor.</li>
+<li><h4>Midterm (25%)
+</h4>The midterm exam will be on October 5th (or October 12th if an assignment was postponed a week before then) during the regular meeting hour, and will cover Chapters 1-3 in the book. The student will be permitted two pages of notes, front and back, and a calculator.</li>
+<li><h4>Final Exam (25%)
+</h4>The final exam will be on November 16th during the regular meeting hour, and will cover Chapters 4-5 in the book. The student will be permitted two pages of notes, front and back, and a calculator.</li></ul><h4>Grade Scale
+</h4><br />The minimum percentage required for each letter grade; do not assume that grades are rounded up.<br /><table class="gradescale2">
+<tbody><tr><td></td><td></td><td>B+ </td><td>87% </td><td>C+ </td><td>77% </td><td>D+ </td><td>67% </td>
+</tr><tr><td>A </td><td>92% </td><td>B </td><td>82% </td><td>C </td><td>72% </td><td>D </td><td>62% </td>
+</tr><tr><td>A- </td><td>90% </td><td>B- </td><td>80% </td><td>C- </td><td>70% </td><td>D- </td><td>60% </td>
+</tr></tbody></table>
+</div><h3 class="ongoing"><a name="Schedule">Course Schedule</a></h3>
+<div class="section">If the student postpones once week, the dates of successive assignments will be pushed to one week later, and the final exam will be moved to Monday, November 21st, or Wednesday, November 30th, at the student's choice.<br />
+<div style="text-align:center"><table class="schedule">
+<tbody><tr><th>Week</th><th>Read</th><th>Meeting</th><th>Homework</th>
+</tr><tr><td>1 </td><td>1.1-1.4 </td><td>Aug 24 </td><td>Chapter 1<br />4, 7a, 8a, 11, 18, 19, 21, 24 </td>
+</tr><tr><td>2 </td><td>1.5-1.7 </td><td>Aug 31 </td>
+</tr><tr><td>3 </td><td>2.1-2.3 </td><td>Sep 7 </td>
+</tr><tr><td>4 </td><td>2.4-2.6 </td><td>Sep 14 </td>
+</tr><tr><td>5 </td><td>3.1-3.3 </td><td>Sep 21 </td>
+</tr><tr><td>6 </td><td>3.4-3.6 </td><td>Sep 28 </td>
+</tr><tr><td>7 </td><td>MIDTERM </td><td>Oct 5 </td>
+</tr><tr><td>8 </td><td>4.1-4.2 </td><td>Oct 12 </td>
+</tr><tr><td>9 </td><td>4.3-4.4 </td><td>Oct 19 </td>
+</tr><tr><td>10 </td><td>5.1-5.2 </td><td>Oct 26 </td>
+</tr><tr><td>11 </td><td>5.3-5.4 </td><td>Nov 2 </td>
+</tr><tr><td>12 </td><td>5.5-5.6 </td><td>Nov 9 </td>
+</tr><tr><td>13 </td><td>FINAL </td><td>Nov 16 </td>
+</tr></tbody></table></div>
+</div><!--<h2 style="font-weight:900;font-size:200%"><a name="Policies">Policies</a></h2>
+<h3>Academic Accommodations</h3>
+
+<div class="section permanent">
+If you have a disability, which may affect your performance in class, let me know as soon as possible.  Students with disabilities must self-advocate.  You will need to provide recent, appropriate documentation, which verifies the need for reasonable academic accommodation.  A copy of all documents is retained by Danielle Ward in the Office of Academic Services (Jones Hall).  Email Danielle at dward@adrian.edu or ask for her in Academic Services. (Statement used with permission)
+</div>
+<h3>Academic Integrity</h3>
+
+<div class="section">
+<p>Cheating of any kind is a violation of the college’s Academic
+  Integrity Policy (See Student Handbook). For example, if a student
+  plagiarizes by copying the work of another person with the intention
+  of deceptively representing that work as his or her own, the student
+  will receive a zero for that assignment. The Assistant Dean of
+  Student Affairs will be informed and it will be noted on the
+  student’s permanent record.  A second offense may result in failure
+  of the course.</p>
+  <p>It is permissible to work with other students on homework
+  assignments; however, once you understand how to do the problem, you
+  should write up the solution in your own words.  Do not copy down a
+  solution that has been prepared by a group.  Exams and quizzes are to be completed with no assistance from
+  anyone else.</p>
+
+</div>
+
+<h3>Technology in the Classroom</h3>
+
+<div class="section">
+You are permitted to use laptops, tablets, cellphones, etc (hereafter
+  referred to as "tech") during lectures, with the following caveats.
+<ul>
+  
+<li>Your tech must not bother anyone else.  Silence cellphones, and
+  make sure your screen isn't bothering or distracting anyone sitting
+  behind you.
+  
+<li>No tech is allowed during quizzes or exams (except calculators
+  in the latter case).  This includes headphones: no personal
+  soundtrack during exams.
+  <li>If I ask you to work with other students, refrain from checking
+  texts, email, etc, while you talk with them: that's just rude.
+  <li>If you're busily working on a paper for another class but just
+  want to sit in my class so that maybe you'll absorb information via
+  osmosis==well, I've been there.  In that case, though, I'd
+  appreciate your sitting in the back of the classroom, and giving me
+  some warning so I won't try to get your attention.
+  <li>Please don't overestimate your ability to multitask.  Studies
+  show that humans are generally a lot worse at it than we think.  If
+  you have a laptop or phone out, you're going to feel tempted to surf
+  the web or text a friend "just for a minute", and soon you've
+  completely forgotten about the class.  I've been <i>there</i>, too.  Be
+  aware of yourself, and if you are an impulsive type and can't resist
+  the allure of the Internet, put the temptation away.  You're paying
+  big bucks to be in lecture; don't squander the opportunity.
+  <li>I reserve the right to introduce a tech ban if I feel this
+  policy is being abused==e.g. if everyone is buried in their
+  cellphones while I'm trying to talk to y'all.  I'm a teacher; I like
+  attention. :)
+</ul>
+</div>
+<!==<h3><a name="Communication">Communicating with Me</a></h3>
+
+<div class="section">
+I will typically be on campus be 
+</div>--><!--<h3>Extra Credit?</h3>
+
+<div class="section">
+  There is plenty of normal credit available in class.  The only extra
+  credit available in class is the occasional extra credit problem on
+  an exam or homework set.  I do not accept extra credit projects, papers, etc.
+</div>
+<h3>Talk to Me!</h3>
+
+<div class="section">
+  <p>If you run into difficulty with the material, if an unexpected
+  emergency comes up which makes it hard to come to class or complete
+  assignments, if you don't like the way I'm teaching: please tell me.
+  I will do all that I can to help, within the framework of fairness
+  to your fellow students.  Generally speaking, <i>the earlier I know
+  about a problem, the more I can do to help.</i></p>
+<p>  I will usually be on campus between 10am and 5pm, Monday through
+  Friday.  I live in Toledo, but can be reached via email until 11pm.  (I receive
+  text messages via email, and am usually always logged into AOL
+  Instant Messenger; for other forms of chat it's best to email me
+  first to make sure I"m available.</p>
+<p>  My Facebook account (if you find it) is
+  private, and strictly for family and such; please don't be offended if I
+  ignore your friend request.</p>
+  </div>
+
+--></div><!--accordion--></body></html>
