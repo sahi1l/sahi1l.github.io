@@ -224,8 +224,6 @@ padding-right:10px;}
 div#middle>div {display:block;text-align:center;}
     #assignments {float:none;padding-right:0px;}
     #classwrapper {width:100%;}
-    #weeklyT {font-size:50% !important;padding-left:0px;}
-    .ui-tabs-panel {padding-left:0px !important;}
 }
 @media (max-width:1152px) {
     #assignments {float:none;}
