@@ -4,10 +4,7 @@ var closedsymbol="&#9654;"
 $(function(){
     var triggerall=function(btn,boo){
         $(".switch").prop("checked",boo).trigger("click");
-        console.log(btn)
-        if(btn){
-            $(btn).fadeOut(100).fadeIn(100);
-        }
+        $(btn).fadeOut(100).fadeIn(100);
     };
 
 
@@ -30,14 +27,14 @@ $(function(){
     $("#hideall").click(function(){triggerall(this,true);});
     
     //ADD OPEN/CLOSE SYMBOLS TO EACH H3
-    $('h3').prepend('<span class="switch" checked>'+opensymbol+'</span>');
-//    $('h3>span').prop("checked",true);
-//    if(iphone){$(}
+    $('h3').prepend('<span class="switch">'+opensymbol+'</span>');
+    $('h3>span').prop("checked",true);
 $('.switch').click(function(){
 that=$(this);
 that.animate({"font-size":"14px"},100).animate({"font-size":"18px"},100);
 arrow=$(this).html();
 var div=$(this).parent().next();
+console.log(that.prop("checked"));
 if(that.prop("checked")){
      div.hide();
      that.html(closedsymbol);
@@ -47,7 +44,5 @@ if(that.prop("checked")){
      that.html(opensymbol);
      that.prop("checked",true);
 }
-    });
-    var iphone=($("#toc").css("display")=="none");
-    if(iphone){triggerall(undefined,true);}
+});
 });

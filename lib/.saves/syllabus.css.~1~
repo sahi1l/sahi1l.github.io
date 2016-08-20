@@ -96,8 +96,7 @@ border:1px groove;
 @page{size:8.5in 11in; orphans:4; widows:2; margin:1in;}
 
 @media screen and (max-width:480px) {
-/*       .switch {display:none;}*/
-         .switch {display:inline;}
+       .switch {display:none;}
        #toc {display:none;}
        body {margin-left:0px;}
 }
