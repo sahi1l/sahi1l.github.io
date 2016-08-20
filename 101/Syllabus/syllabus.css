@@ -95,10 +95,17 @@ border:1px groove;
 
 @page{size:8.5in 11in; orphans:4; widows:2; margin:1in;}
 
+@media screen and (max-width:480px) {
+       .switch {display:none;}
+       .switch {display:none;}
+       #toc {display:none;}
+       body {margin-left:0px;}
+}
 @media print {
+body {margin-left:10px;}
 .switch {display:none;}
 #toc {display:none;}
-h1,h2,#wherewhen,h3+div,h3 {margin-left:10px;}
+/*h1,h2,#wherewhen,h3+div,h3 {margin-left:10px;}*/
 h3 {page-break-after:avoid;}
 h4 {page-break-after:avoid;}
 li {page-break-inside:avoid;}
