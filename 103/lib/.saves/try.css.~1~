@@ -1,0 +1,50 @@
+
+div#middle>div,
+div.class #name {
+    background-color:                           #face40;
+}
+body {
+     background-color:                          #fefbf0;
+}
+
+
+div#professor li:nth-child(odd),
+div#assignments tr>th:nth-child(odd),
+div#assignments tr>td:nth-child(odd)
+{
+     background-color:                            #fef7e1;
+}
+
+div#news li:nth-child(odd),
+div#assignments tr>td:nth-child(even),
+div#assignments tr>th:nth-child(even),
+div.class
+{
+     background-color:                            #fdf0c4;
+}
+
+div#news li:nth-child(even) {
+	background-color:	                        #fce189;
+}
+
+div.class,
+div#professor,
+div#news,
+div#assignments,
+div#assignments table,
+#syllabus,
+#gradeframe
+{
+    box-shadow: 5px 5px 5px                     #e8cfb3;
+}
+
+
+/*current*/
+tr.current td:nth-child(odd) {
+    background-color:                           #e9a1bb !important;
+}
+tr.current td:nth-child(even) {
+    background-color:                           #e391fc !important;
+#syllabus {text-shadow: 0px 0px 5px #e8cfb3; font-weight:900px;}
+}
+

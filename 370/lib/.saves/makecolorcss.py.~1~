@@ -1,0 +1,17 @@
+#!/usr/local/bin/python
+def mix(c1,c2,alpha):
+    result=(0,0,0);
+    for i in [0,1,2]:
+        result[i]=c1[i]+(c2[i]-c1[i])*alpha
+    return result
+    
+base=(0,255,0);
+dark="#2a3";
+lvle="#efe"; 
+lvld="#dfd";
+lvlc="#cfc";
+lvlb="#bfb";
+lvl7="#7f7";
+shadow="#ada";
+curlight="#aff";
+curdark="#bdd";
