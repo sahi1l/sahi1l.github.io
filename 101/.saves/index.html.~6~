@@ -69,7 +69,7 @@ activate:function(){Cookies.set("tab",$("#tabs").tabs("option","active"),{expire
 </div>
 <div style="margin-top: 20px" id="tabs"><ul>
 <li><a href="#news">News</a></li>
-<li><a href="#assignments">Weekly</a></li>
+<li><a href="#assignments">Weekly Assignments</a></li>
 <li><a href="#chat">Chat</a></li>
 </ul><div id="news">
 <h2>News</h2><ul>
@@ -110,4 +110,4 @@ activate:function(){Cookies.set("tab",$("#tabs").tabs("option","active"),{expire
 </TABLE></DIV>
 </div>
 <div id="chat">
-<iframe width="400" height="500" scrolling="no" src="http://hillbook.nfshost.com/Chat/index.html"></iframe></div></div>
+<iframe width="500" height="500" scrolling="no" src="http://hillbook.nfshost.com/Chat/index.html"></iframe></div></div>
