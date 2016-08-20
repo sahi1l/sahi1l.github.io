@@ -215,11 +215,12 @@ padding-right:10px;}
 /*iPhone*/
 @media (max-width:700px) {
     div#news {width:100%;}
-    div.class {width:100%;padding-left:0px;border:0px;}
+    div.class {width:100%;padding-left:0px;border:0px;min-width:auto;}
     div#professor {width:90%;margin-left:2.5%;margin-top:10px;}
     div#middle {display:block;margin-top:20px;}
 div#middle>div {display:block;text-align:center;}
     #assignments {float:none;padding-right:0px;}
+
 }
 @media (max-width:1152px) {
     #assignments {float:none;}
