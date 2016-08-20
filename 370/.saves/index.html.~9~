@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
-<meta name="viewport" content="width=540, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" href="favicon.png" />
 <link rel="stylesheet" href="../lib/jquery-ui.css">
 <link rel="stylesheet" type="text/css" href="../lib/main.css">
@@ -35,7 +35,7 @@ activate:function(){Cookies.set("tab",$("#tabs").tabs("option","active"),{expire
   Department&nbsp;of&nbsp;Physics
 </A>
 </DIV>
-<div class="classwrapper">
+<div style="display:inline-block;">
 <div class="class">
 <h1 id="number">Physics 370</h1>
 <p id="name">Modern Physics</p>
