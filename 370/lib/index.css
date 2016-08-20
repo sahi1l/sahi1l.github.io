@@ -10,7 +10,7 @@ body {
     margin-top:20px;
 }
 body {
-    background-image: url("../img/CornerSeal.png");
+    background-image: url("../../lib/img/CornerSeal.png");
     background-position:right bottom;
     background-repeat: no-repeat;
     background-attachment:fixed;

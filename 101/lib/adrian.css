@@ -28,3 +28,6 @@ div#adrian {
 #deptphysics {
              font-size:80%;
 }
+@media screen and (max-width:480px) {
+       div#adrian {font-size:80%;}
+}
