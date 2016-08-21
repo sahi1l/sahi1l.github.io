@@ -1,26 +1,25 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1">
 <link rel="icon" type="image/png" href="../favicon.png" />
 <link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Roboto'
 rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Raleway:400,700,900'
 rel='stylesheet' type='text/css'>
-<!--<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">-->
-<link rel="stylesheet" href="syllabus.css">
-<link rel="stylesheet" href="../lib/try.css">
-<script src="../lib/jquery.js"></script>
-<!--<script src="http://code.jquery.com/jquery-1.10.2.js"></script>-->
-<!--<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>-->
-<script src="syllabus.js"></script>
-<title>Physics 370 Syllabus, Fall 2016</title>
+<link href="http://fonts.googleapis.com/css?family=Lato:400,300" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="../../lib/syllabus.css">
+<link rel="stylesheet" href="../lib/color.css">
+<script src="../../lib/jquery.js"></script>
+<script src="../../lib/syllabus.js"></script>
+<title>Physics 101 Syllabus, Fall 2016</title>
 <div id="toc"><img src="https://c288801.ssl.cf1.rackcdn.com/adrian-college/logo.png"
 id="logo"></div></div>
 
 <body class="Syllabus">
 <!--ADRIAN HEADER-->
-<link rel="stylesheet" type="text/css" href="../lib/adrian.css">
+<link rel="stylesheet" type="text/css" href="../../lib/adrian.css">
 <DIV id="adrian">
 <A HREF="http://www.adrian.edu" id="adriancollege">Adrian&nbsp;College</A>
 <A HREF="http://adrian.edu/academics/academic-departments/physics/" id="deptphysics">
@@ -29,19 +28,16 @@ id="logo"></div></div>
 </DIV>
 <!--END ADRIAN HEADER-->
 
-
-<div style="height:50px;">
-<!--<h2 id="university">Adrian College</h2>
-<h2 id="department">Department of Physics</h2>-->
-<h2 id="courseNumber" class="tbd">Physics 370</h2>
-<h1 id="courseName" class="tbd">Modern Physics</h1>
+<div style="height:70px;">
+<h2 id="courseNumber" class="tbd">Physics 101</h2>
+<h1 id="courseName" class="tbd">Introductory Physics</h1>
 <h2>Fall 2016</h2>
-<h2><b>MWF 3-3:50pm in Peelle 2xx</b></h2>
+<h2><b>MWF 10-10:50am in Peelle 207</b></h2>
 <div id="accordion">
   <h3><a name="Instructor">Instructor</a></h3>
   <div class="section" style="vertical-align:middle">
 <span style="text-align:center"> <b style="font-size:125%">Scott A. Hill</b><br>
-    <img src="img/me.jpg" width=100 style="border:2px solid;"/>
+    <img src="../../lib/img/me.jpg" width=100 style="border:2px solid;"/>
     <br>Assistant Professor of
     Physics<br>Ph.D., University of Chicago, 2002
 
@@ -49,55 +45,37 @@ id="logo"></div></div>
 <span>
   <dl>
 <dt>Email</dt> <dd>shill@adrian.edu</dd>
-    <dt>Instant<br/>Messaging</dt> <dd>doogadgit (AIM)<br/> physhill (Google
-      Chat)<br/>567-343-2284 (SMS)</dd>
+    <dt>Instant<br>Messaging</dt> <dd>doogadgit (AIM)<br> physhill (Google
+      Chat)<br>567-343-2284 (SMS)</dd>
     <dt>Phone</dt> <dd>(517) 265-5161 <b>x4578</b></dd>
     <dt>Office Location</dt> <dd>Peelle 208</dd>
-      <dt>Office Hours</dt> <dd>tbd</dd>
-    </div>
+      <dt>Office Hours</dt> <dd>Mondays and Fridays 11am-noon<br>Tuesdays
+      and Thursdays 1-2pm<br>or by appointment</dd>
+    </dl></span></div>
 <!--
     <dt>Lab Location: <dd class="tbd"></dd>
     <dt>Lab Day/Time: <dd class="tbd"></dd>
     -->
-  </dl>
+  
     </div>
 </span>
 <h3><a name="Description">Description</a></h3>
 <div class="section">
-<p><i>An introduction to the fundamentals of modern physics.  Topics
-  include special relativity, quantum theory, atomic physics,
-  statistical physics, condensed-matter physics, nuclear structure,
-  and elementary particles.</i> (Catalog)</p>
-  <p>"Modern" is a bit of a misnomer here: we're talking about physics
-  largely discovered in the beginning of the 20th century (relativity,
-  quantum mechanics) or even earlier (statistical physics).  This is a
-  bit of an upper-level "survey" course, and while there will be
-  advanced mathematics, the emphasis will be on conceptual
-  understanding of a variety of phenomena.  Well ok, "understanding"
-  might be a bit too strong when it comes to quantum mechanics...</p>
-  <p><i>“It is often stated that of all the theories proposed in this
-  century, the silliest is quantum theory. In fact, some say that the
-  only thing that quantum theory has going for it is that it is
-  unquestionably correct.”</i> --Michio Kaku, <i>Hyperspace</i>
+<p><i>This two-semester course sequence is an algebra-based survey of
+  physics. Topics include mechanics, thermodynamics, electricity, and
+  magnetism, and modern physics.</i> (Catalog)</p>
+  <p>In this first semester, we will discuss kinematics (how things
+  move), forces (why things move), momentum, energy, oscillations,
+  waves, and fluids.
   
-</div>
+</p></div>
 
-<!--
-<h3>Course Overview</h3>
-<div class="section optional">
-</div>
--->
 <h3><a name="Prereqs">Prerequisites</a></h3>
 <div class="section">
-  <span style="padding-left:10px">This class builds on topics from
-  introductory physics in a calculus-based setting.  You are expected
-  to be comfortable with partial derivatives and multiple integrals.
-  Prerequisites of the course are</span>
-  <ul>
-  <li><b>PHYS 206</b>: (General Physics II)
-  <li><b>MATH 215</b> (Calculus and Analytic Geometry III) <br/><u>or</u> <b>MATH 305</b>
-    (Differential Equations)
-    </ul>
+  <span style="padding-left:10px">
+<b>MATH 115</b>: (Pre-Calculus Mathematics)
+<p><i>You are expected to be comfortable with solving algebraic equations
+  and working with trigonometric functions.</i></p>
 </div>
 
 
@@ -106,68 +84,47 @@ id="logo"></div></div>
 On successful completion of this course, you will be able to do the
   following:
 <ol>
-  <h4>Special Relativity</h4>
-    <li>State the fundamental postulates of special relativity, and
-    explain how special relativity deviates from classical physics
-    with regard to simultaneity, time dilation, length contraction.
-    <li>Use spacetime diagrams and the spacetime interval to analyze
-    events.
-<h4>Wave-Particle Duality</h4>
-    <li>Identify the differences between waves and particles.
-    <li>Discuss several examples where light displays particle-like
-    properties, and where matter has wave-like properties.
-    <li>Calculate the wavelength and frequency of the wavefunction of
-    a free particle.
-    <li>Explain the Heisenberg uncertainty principle, and use it in
-    calculations.
-<h4>Wavefunctions</h4>
-  <li>Describe the physical interpretation of an object's
-    wavefunction.
-    <li>State the Schrodinger equation, in time-independent and
-    time-dependent forms, and explain its features.
-    <li>Discuss the differences between bound and unbound states.
-    <li>Define stationary state.
-    <li>Describe the stationary states of certain one-dimensional
-    potentials.
-    <li>Calculate the expectation values and uncertainties of certain
-    properties of wavefunctions.
-    <li>Explain what quantum tunnelling is, and how it works.
-    <li>Explain why the electron in a hydrogen atom doesn't crash into
-    the proton, and can only exist in certain energy levels.
-    <!--<li><i>Define degeneracy.  Give some examples of how degeneracies
-    in the hydrogen atom can be split.</i> (Not sure about this one.)-->
-<h4>Statistical Mechanics</h4>
-  <li>Describe the relationship between entropy and temperature.
-    <li>Use the Boltzmann distribution to calculate the probability of
-    a system being in a certain state.
-    <li>Describe the difference between bosons and fermions.  Use the
-    Bose-Einstein and Fermi-Dirac distributions to calculate the
-    average occupancy of energy levels for such particles.
-    <li>Explain the equipartition theorem, and use it in calculations.
-<h4>Solids</h4>
-  <li>Discuss the properties of a crystalline solid, including the
-  crystal lattice; the difference between covalent, ionic, 
-metallic, and molecular solids; and the difference between conductors,
-insulators, and semiconductors.
-    <li>Describe the properties of semiconductors, how they arise, and
-some practical uses for them.
-    <li>Define superconductivity, describe how it works, and discuss
-the difference between Type-I and Type-II superconductors.
-<h4>Nuclear Physics</h4>
-<li>Discuss the structure of an atomic nucleus, and the conditions
-for its stability.
-    <li>Describe alpha, beta, and gamma decay, and the process of
-radioactive decay.
-    <li>Describe the processes of nuclear fission and nuclear fusion.
-<h4>Particle Physics</h4>
-<li>Describe the four fundamental forces, and identify the
-mediating particle for each.
-    <li>Explain what antimatter is.
-    <li>Explain how particle accelerators work, and what we use them
-for.
-    <li>Describe the three fundamental symmetries in particle physics,
-and give examples of when they are violated.
-  </ol>
+  <h4>Kinematics</h4>
+  <li>Draw diagrams and graphs characterizing the motion of objects,
+  and identify the velocity and acceleration during their motion.
+  </li><li>Solve kinematics equations in one and two dimensions when the
+  acceleration is constant, and for rotating object.
+  </li><li>Describe the motion of a rotational object using angular
+  kinematic terms, and explain the relationship between angular and
+  linear motion.
+  <h4>Forces</h4>
+  </li><li>Identify different types of forces.
+  </li><li>Explain Newton's Three Laws of motion.
+  </li><li>Draw a free-body diagram of the forces acting on an object.
+  </li><li>Identify the force pairs involved in Newton's 3rd Law.
+  </li><li>Calculate the torque on an object associated with a given force.
+  </li><li>Solve for forces under conditions of static equilibrium,
+and when an object moves at constant velocity or constant
+  acceleration.
+  <h4>Momentum and Energy</h4>
+  </li><li>Use conservation of momentum and energy to determine the
+  behavior of objects.
+  </li><li>Explain the relationship between work, force, momentum, and energy.
+  <h4>Thermodynamics</h4>
+  </li><li>Describe the microscopic model of the ideal gas, and how it
+  gives rise to the phenomena of pressure and temperature.
+  </li><li>Describe different types of processes that ideal gases may
+  undergo, and calculate the change in thermodynamic variables during
+  these processes.
+  </li><li>Describe the relationship between heat, work, and temperature.
+  </li><li>Relate the heat flow between objects to changes in their
+  temperature.
+  </li><li>List and describe three different forms of heat.
+  </li><li>Define entropy.
+  </li><li>Explain some consequences of the Second Law of Thermodynamics.
+  <h4>Fluids</h4>
+  </li><li>Solve problems involving differences in pressure.
+  </li><li>Determine the buoyant force on an object submerged in a fluid.
+  </li><li>Determine the rates of flow in a pipe due to the equation of
+  continuity.
+  </li><li>Use Bernoulli's equation to relate pressure and the flow speed
+  of a fluid.
+</li></ol>
 </div>
 
 <!--
@@ -176,24 +133,45 @@ and give examples of when they are violated.
 </div>
 -->
 
-<h3><a name="Textbook">Required Text</a></h3>
+<h3><a name="Textbook">Required Materials</a></h3>
 <div class="section">
-<img style="float:right" width=100px src="https://www.pearsonhighered.com/assets/bigcovers/0/8/0/5/0805303081.jpg
+<h4>Textbook</h4>
+  <img style="float:right;padding-left:10px;" width=100px src="
+  https://www.pearsonhighered.com/assets/bigcovers/0/3/2/1/0321902556.jpg
   "/>
-  <a
-  href="https://www.amazon.com/Modern-Physics-2nd-Randy-Harris/dp/0805303081"><i>Modern Physics</i></a>, 2nd edition. by Randy Harris (2007). ISBN
-  0-805-30308-1.
-  <br clear="right"/>
+  <i>College Physics: A Strategic Approach</i>, 3rd edition, by Knight,
+  Jones, and Field (2014). ISBN 0-13-416783-X.  You will also need an
+  access code for the online homework system <b>Mastering Physics</b>.  <I>The college bookstore lists a
+  hardcover version and an ebook version; you do not need both!</i>
+  <h4>Calculator</h4>
+<img height=100px src="../../lib/img/calculator.png" style="float:left;padding-right:10px;">
+  A scientific calculator is required.  It must have the trigonometric
+  functions and scientific notation; it need not (but can be) a
+  graphing calculator.  Bring your calculator to all classes and
+  exams, unless otherwise notified.  Needless to say, you may not
+  share calculators during exams, or use a cell phone, laptop, or
+  similar device during exams.
+  <h4 style="clear:left">Letter Cards</h4>
+  <img height=100px src="../../lib/img/cards.png" style="float:right;padding-left:10px;">
+  At the beginning of the semester, you will be supplied with a set of
+  6 large color cards labelled A through F.  You will use them to
+  answer multiple-choice questions in class.  Please bring them with
+  you to every lecture.
+ 
 </div>
 
 <h3><a name="Website">Website</a></h3>
 <div class="section optional">
   Class assignments, solutions, and news will be posted
-  on the <b>class website</b>: <a
-  href="http://370.scotthill.us">http://370.scotthill.us</a>
+  on the <b>class website</b>: <a href="http://101.scotthill.us/">http://101.scotthill.us</a>
   <p>I will post audio recordings of lectures online, and use a
   virtual whiteboard which can be saved to the website as well.  These
-  are for your convenience when you cannot make it to lecture; they are not meant to be a substitute for regular lecture attendance.  Occasionally there is a technical difficulty which prevents the notes from a class from being posted, and you are still responsible for the material covered in that lecture, so don't become too reliant on the online notes.</p>
+  are for your convenience when you cannot make it to lecture; they are 
+not meant to be a substitute for regular lecture attendance.  
+Occasionally there is a technical difficulty which prevents the notes 
+from a class from being posted, and you are still responsible for the 
+material covered in that lecture, so don't become too reliant on the 
+online notes.</p>
 </div>
 
 <!--<h3>University Policies</h3>
@@ -206,20 +184,12 @@ Policy Statement on Non-Discrimination on the basis of Disability
 <div class="section">
 <ul>
   <li><h4>Homework (20%)</h4>
-  Weekly homework will be posted on <b>Mondays</b> on the class
-  website, and collected the following Monday in class (unless
-  otherwise specified).  Homework is due by the end of class for full
-  credit; late homework will be accepted through the following class
-  for half credit <i>unless prior arrangements are made.</i> (It never
-  hurts to ask.)  The two lowest homework grades will be dropped.
-  Depending on my whim that week, I might grade all problems in
-  complete detail, or I might grade one or two problems at random, or
-  I might just give you credit for completing the work.  You should
-  always review the solutions (found on the website) after turning in
-  the assignment.
+  Homework will be assigned online each week through the Mastering
+  Physics system, and will be due by <b>Saturday mornings</b> at
+  <b>noon</b>.  The two lowest homework grades will be dropped.
   <li><h4>Quizzes (20%)</h4>
   Weekly ten-minute quizzes will be given at the beginning of class on most
-  <b>Fridays</b>, on material covered since the previous quiz.
+  <b>Wednesdays</b>, on material covered since the previous quiz.
   Quizzes cannot be made up, though they may be excused for valid
   reason (see <a href="#excused_absences">"Excused Absences"</a> under
   Policies.). The two lowest quiz grades will be dropped.
@@ -227,17 +197,40 @@ Policy Statement on Non-Discrimination on the basis of Disability
   points just for showing up.
   <li><h4>Midterms (2 x 20%)</h4>
   Two midterms will be given in class.  They are closed-book and
-  closed-notes, but students are permitted two sheets of paper, on
+  closed-notes, but students are permitted <b>one</b> sheet of paper, on
   which they may write or print or type or draw anything they choose,
   front and back.  Calculators are permitted (nay, required).  The
   exact dates are to be determined.  Midterm dates are flexible, and
   if you have a big exam or project in another class, we can talk
-  about how to avoid it.
+  about how to avoid it.  The first midterm will be <b>no sooner than
+  September 26th</b>, and the second midterm will be <b>no sooner than
+  October 31st</b>.
 
-<li><h4>Final Exam (20%):</h4> The final exam will be <i>open book</i> and <i>open
-    notes</i>, and will be comprehensive, with an emphasis on the
-    material not covered on the previous two exams.
+<li><h4>Final Exam (20%):</h4> The final exam will be comprehensive,
+  with an emphasis on the material not covered on the previous two
+  exams.  The rules are the same as for the midterms except that you
+  are permitted <b>two</b> sheets of paper.
 </ul>
+<table class="gradescale2">
+  <caption><h4>Grade Scale</h4><br>The minimum percentage
+  required for each letter grade; do not assume that grades are
+  rounded up.<br/></caption>
+  <tr><td><td>
+  <td>B+<td>87%
+  <td>C+<td>77%
+  <td>D+<td>67%
+    <tr>
+  <td>A<td>92%
+  <td>B<td>82%
+  <td>C<td>72%
+  <td>D<td>62%
+<tr>
+  <td>A-<td>90%
+  <td>B-<td>80%
+  <td>C-<td>70%
+  <td>D-<td>60%
+    </table>
+  </table>
 <table class="gradescale">
   <caption><h4>Grade Scale</h4></caption>
   <tr>
@@ -294,15 +287,15 @@ Policy Statement on Non-Discrimination on the basis of Disability
     service
   </ul>
   If you're not sure if something counts, please don't hesitate to ask
-  me.
+  me.  Excuses for missed homework will be judged more stringently
+  because they do not require your presence in class.
   <h4>What happens if I get an excused absence?</h4>
   <ul>
     <li>For <b>quizzes</b>, it will be as if that quiz never existed
     for you.  It will <i>not</i> count as one of your dropped quizzes.
-    <li>For <b>homework</b>, you will be expected to submit it as soon
+    <li>For <b>homework</b>, you will be expected to complete it as soon
     after the class as possible.  We will work out a new due date for
-    you in that instance.  Note that you can email me your homework or
-    slide it under my door on the day it's due with no penalty.
+    you in that instance.
     <li>For <b>exams</b>, we will schedule a makeup exam in my office
     as soon as possible.  This will either be in written or oral form,
     at my discretion.
@@ -311,8 +304,8 @@ Policy Statement on Non-Discrimination on the basis of Disability
   Come anyway!  It's a lot easier to give you a little extra time,
   than to find a whole extra hour to squeeze you in.
   <h4>Do I have to let you know if I'm going to miss a class and
-  there's no homework or quiz that day?</h4>
-  No; attendance is not required.
+  there's no quiz or exam that day?</h4>
+  No; attendance is not required.  I trust you to choose your own priorities.
 </div>
 
 <h3 class="ongoing"><a name="Schedule">Course Schedule</a></h3>
@@ -320,22 +313,17 @@ Policy Statement on Non-Discrimination on the basis of Disability
 <div class="section">
 We will cover the following chapters from the textbook.  
   <ul class="schedule">
-    <li><b>Chapter 2:</b> Special Relativity
-    <li><b>Chapter 3:</b> Electromagnetic Radiation Behaving as
-    Particles
-    <li><b>Chapter 4:</b> Matter Behaving as Waves
-    <li style="list-style-type:none"><b>MIDTERM 1 will cover Chapters 2-4</b>
-    <li><b>Chapter 5:</b> Bound States
-    <li><b>Chapter 6:</b> Unbound States
-    <li><b>Chapter 9:</b> Statistical Mechanics
-    <li style="list-style-type:none"><b>MIDTERM 2 will cover Chapters
-    5,6, and 9</b>
-    <li><b>Chapter 10 (sections 4-9):</b> Solids
-    <li><b>Chapter 11:</b> Nuclear Physics
-    <li><b>Chapter 12:</b> Fundamental Particles and Interactions
-          </ul>
- If you're wondering about Chapters 7, 8, and the beginning of Chapter
-          10, that material will be covered in next semester's Quantum Mechanics course.
+    <li><b>Weeks 1-2</b> Kinematics (Chapters 1-3)
+    </li><li><b>Weeks 3-5</b> Forces (Chapters 4-5)
+    </li><li style="list-style-type:none" class="exam"><b>MIDTERM 1 will cover Chapters 1-5</b>
+    </li><li><b>Weeks 6-7</b> Equilibrium and Rotational Motion (Chapters 6-8)
+    </li><li><b>Weeks 8</b> Momentum (Chapter 9)
+    </li><li><b>Weeks 9-11</b> Energy and Work (Chapter 10)
+    </li><li style="list-style-type:none" class="exam"><b>MIDTERM 2 will cover Chapters 6-10</b>
+    </li><li><b>Week 11-12</b> Oscillations (Chapters 14)
+    </li><li><b>Weeks 12-13</b> Thermodynamics (Chapters 11-12)
+    </li><li><b>Weeks 13-15</b> Fluids (Chapter 13)
+  </li></ul>
           
 </div>
 
@@ -344,8 +332,33 @@ We will cover the following chapters from the textbook.
 <h2 style="font-weight:900;font-size:200%"><a name="Policies">Policies</a></h2>
 <h3>Academic Accommodations</h3>
 <div class="section permanent">
-If you have a disability, which may affect your performance in class, let me know as soon as possible.  Students with disabilities must self-advocate.  You will need to provide recent, appropriate documentation, which verifies the need for reasonable academic accommodation.  A copy of all documents is retained by Danielle Ward in the Office of Academic Services (Jones Hall).  Email Danielle at dward@adrian.edu or ask for her in Academic Services. (Statement used with permission)
+If you have a disability, which may affect your performance in class, 
+let me know as soon as possible.  Students with disabilities must 
+self-advocate.  You will need to provide recent, appropriate 
+documentation, which verifies the need for reasonable academic 
+accommodation.  A copy of all documents is retained by Danielle Ward in 
+the Office of Academic Services (Jones Hall).  Email Danielle at 
+dward@adrian.edu or ask for her in Academic Services. (Statement used 
+with permission)
 </div>
+<h3>Academic Integrity</h3>
+<div class="section">
+<p>Cheating of any kind is a violation of the college’s Academic
+  Integrity Policy (See Student Handbook). For example, if a student
+  plagiarizes by copying the work of another person with the intention
+  of deceptively representing that work as his or her own, the student
+  will receive a zero for that assignment. The Assistant Dean of
+  Student Affairs will be informed and it will be noted on the
+  student’s permanent record.  A second offense may result in failure
+  of the course.</p>
+  <p>It is permissible to work with other students on homework
+  assignments; however, once you understand how to do the problem, you
+  should write up the solution in your own words.  Do not copy down a
+  solution that has been prepared by a group.  Exams and quizzes are to be completed with no assistance from
+  anyone else.</p>
+
+</div>
+
 <h3>Technology in the Classroom</h3>
 <div class="section">
 You are permitted to use laptops, tablets, cellphones, etc (hereafter
@@ -413,3 +426,4 @@ I will typically be on campus be
 </div>-->
 
 </div><!--accordion-->
+</body></html>
