@@ -1,6 +1,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1">
 <link rel="icon" type="image/png" href="../favicon.png" />
 <link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Roboto'
@@ -8,17 +9,17 @@ rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Raleway:400,700,900'
 rel='stylesheet' type='text/css'>
 <link href="http://fonts.googleapis.com/css?family=Lato:400,300" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="syllabus.css">
+<link rel="stylesheet" href="../../lib/syllabus.css">
 <link rel="stylesheet" href="../lib/color.css">
-<script src="../lib/jquery.js"></script>
-<script src="syllabus.js"></script>
+<script src="../../lib/jquery.js"></script>
+<script src="../../lib/syllabus.js"></script>
 <title>Physics 101 Syllabus, Fall 2016</title>
 <div id="toc"><img src="https://c288801.ssl.cf1.rackcdn.com/adrian-college/logo.png"
 id="logo"></div></div>
 
 <body class="Syllabus">
 <!--ADRIAN HEADER-->
-<link rel="stylesheet" type="text/css" href="../lib/adrian.css">
+<link rel="stylesheet" type="text/css" href="../../lib/adrian.css">
 <DIV id="adrian">
 <A HREF="http://www.adrian.edu" id="adriancollege">Adrian&nbsp;College</A>
 <A HREF="http://adrian.edu/academics/academic-departments/physics/" id="deptphysics">
@@ -36,7 +37,7 @@ id="logo"></div></div>
   <h3><a name="Instructor">Instructor</a></h3>
   <div class="section" style="vertical-align:middle">
 <span style="text-align:center"> <b style="font-size:125%">Scott A. Hill</b><br>
-    <img src="../img/me.jpg" width=100 style="border:2px solid;"/>
+    <img src="../../lib/img/me.jpg" width=100 style="border:2px solid;"/>
     <br>Assistant Professor of
     Physics<br>Ph.D., University of Chicago, 2002
 
@@ -45,7 +46,8 @@ id="logo"></div></div>
   <dl>
 <dt>Email</dt> <dd>shill@adrian.edu</dd>
     <dt>Instant<br>Messaging</dt> <dd>doogadgit (AIM)<br> physhill (Google
-      Chat)<br>567-343-2284 (SMS)</dd>
+      Chat)<br>567-343-2284 (SMS)
+    </dd>
     <dt>Phone</dt> <dd>(517) 265-5161 <b>x4578</b></dd>
     <dt>Office Location</dt> <dd>Peelle 208</dd>
       <dt>Office Hours</dt> <dd>Mondays and Fridays 11am-noon<br>Tuesdays
@@ -140,10 +142,12 @@ and when an object moves at constant velocity or constant
   "/>
   <i>College Physics: A Strategic Approach</i>, 3rd edition, by Knight,
   Jones, and Field (2014). ISBN 0-13-416783-X.  You will also need an
-  access code for the online homework system <b>Mastering Physics</b>.  <I>The college bookstore lists a
+  access code for the online homework system <b>Mastering Physics</b>.  Once you have logged on, you will need to enter code "ADRIANPHYSICS101HILL16" to join the course.
+<br>
+<I>The college bookstore lists a
   hardcover version and an ebook version; you do not need both!</i>
   <h4>Calculator</h4>
-<img height=100px src="../img/calculator.png" style="float:left;padding-right:10px;">
+<img height=100px src="../../lib/img/calculator.png" style="float:left;padding-right:10px;">
   A scientific calculator is required.  It must have the trigonometric
   functions and scientific notation; it need not (but can be) a
   graphing calculator.  Bring your calculator to all classes and
@@ -151,7 +155,7 @@ and when an object moves at constant velocity or constant
   share calculators during exams, or use a cell phone, laptop, or
   similar device during exams.
   <h4 style="clear:left">Letter Cards</h4>
-  <img height=100px src="../img/cards.png" style="float:right;padding-left:10px;">
+  <img height=100px src="../../lib/img/cards.png" style="float:right;padding-left:10px;">
   At the beginning of the semester, you will be supplied with a set of
   6 large color cards labelled A through F.  You will use them to
   answer multiple-choice questions in class.  Please bring them with
@@ -409,10 +413,10 @@ I will typically be on campus be
   to your fellow students.  Generally speaking, <i>the earlier I know
   about a problem, the more I can do to help.</i></p>
 <p>  I will usually be on campus between 10am and 5pm, Monday through
-  Friday.  I live in Toledo, but can be reached via email until 11pm.  (I receive
+  Friday.  I live in Toledo, but can be reached via email until 11pm.  I receive
   text messages via email, and am usually always logged into AOL
   Instant Messenger; for other forms of chat it's best to email me
-  first to make sure I"m available.</p>
+  first to make sure I'm available.</p>
 <p>  My Facebook account (if you find it) is
   private, and strictly for family and such; please don't be offended if I
   ignore your friend request.</p>
