@@ -4,6 +4,7 @@ div.class #name,
 body.Syllabus #courseName
 {/*dark*/
     background-color:                           #2222ff;
+    color: white;
 }
 body.Syllabus #courseNumber
 {/*dark*/
