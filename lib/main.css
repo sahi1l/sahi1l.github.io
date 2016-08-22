@@ -192,7 +192,7 @@ div#assignments th {
     border:1px solid;
 }
 div#assignments td {
-    padding: 2px;
+    padding: 2px 5px;
     text-align:center;
     border-color: black;
 }
