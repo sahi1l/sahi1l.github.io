@@ -1,6 +1,6 @@
 #!/usr/local/bin/python
-from sys import argv;
 from __future__ import division;
+from sys import argv;
 def convert(c1,c2,alpha):
     return c1+(c2-c1)*alpha
 def mix(c1,c2,alpha):
@@ -100,7 +100,9 @@ text-shadow: 0px 0px 5px %s; font-weight:900;}
 
 body.Syllabus h3 {/*grad,grad*/
 background: transparent linear-gradient(to right,rgb(%s),rgba(%s,0));
-}
-""" % (dark,dark,lvle,lvld,lvlb,lvl7,shadow,curlight,curdark,textshadow,grad,grad);
+};
+body.Syllabus #toc a {color:%s}
+body.Syllabus #toc a:visited {color:%s}
+""" % (dark,dark,lvle,lvld,lvlb,lvl7,shadow,curlight,curdark,textshadow,grad,grad,dark,lvl7);
 
 #TODO: Make TOC links match in color
