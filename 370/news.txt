@@ -1,3 +1,4 @@
+8/27: Regarding problem 1...it's a bear, isn't it?  Don't get too stuck on it that you don't do the other problems.  Here are a couple hints: <ul><li>When clock C is directly overhead of clock Y, that is an EVENT.  (The perpendicular distance between the clocks is irrelevant.) <li>At an event, the clock readings will be the same for everyone.  C and Y may show different times, but everyone will agree what times those clocks show at the event. <li>The reading on any clock is the time in the clock's frame.</ul>
 8/24: There will be no quiz this first week.
 8/24: The first homework assignment is now available in the Assignments tab.
 8/20: Welcome to Modern Physics!  Please click on the Syllabus button above to learn more about the course.
