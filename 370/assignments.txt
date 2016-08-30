@@ -1,6 +1,6 @@
-8/22	Special Relativity	1	HW1	Quiz1
+8/22	Special Relativity	2	HW1	
+8/29	Special Relativity	2	HW2	Quiz1
 
-8/29				
 9/5				
 9/12				
 9/19				
