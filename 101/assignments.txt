@@ -1,7 +1,7 @@
 8/22	Motion Diagrams	1	Lab1	Quiz1
-8/29	Kinematics	2	Lab2	Quiz2
+8/29	Kinematics	2		Quiz2
 
-9/5				
+9/5			Lab2	Quiz3
 9/12				
 9/19				
 9/26				
