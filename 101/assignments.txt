@@ -1,8 +1,8 @@
 8/22	Motion Diagrams	1	Lab1	
 8/29	Kinematics	2		Quiz1
 9/5	Constant Acceleration	2	Lab2	Quiz2
+9/12	Two-Dimensional Motion	3	Lab3	Quiz3
 
-9/12				
 9/19				
 9/26				
 10/3				
