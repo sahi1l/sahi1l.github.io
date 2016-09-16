@@ -1,3 +1,4 @@
+9/16: There was a small error in problem 3 of HW3; I forgot the 1/2.  The solutions have been corrected.
 9/13: In [HW4.pdf Homework 4], problem 2a, you can drop the minus sign.
 9/5: [HW3.pdf Homework 3] has now been posted.  UPDATE: The original said it was "Homework 2"; I've fixed it.
 9/1: HW1 solutions are now posted.  UPDATE: I made a small correction to the answer to the last problem: the answer should be 13ns, not 20ns.
