@@ -1,3 +1,4 @@
+10/1: Quick modification to the last problem on HW6, part b: you don't have to find k_max, just show that it is inversely proportional to L.  Don't kill yourself over it, though.
 9/29: Here is the [Exam1Outline.pdf review outline] for the first exam.  Also, here is a [SampleExam.pdf sample] exam I gave to the equivalent of a 208 class; not helpful to study from but it gives you a sense of my "style".
 9/27: The first exam will be on <b>Wednesday, October 5th</b>, and will cover chapters 2-4 in Harris.
 9/16: There will be NO CLASS on Monday (the 19th).  Please read Chapter 3 of Harris and bring your questions and thoughts about the material to Wednesday's class, along with your solutions to HW4.
