@@ -4,8 +4,8 @@
 9/12	Light as Particles	3	HW4	Quiz3
 9/19	Matter as Waves	4	HW5	Quiz4
 9/26	Matter as Waves	4	HW6	Quiz5
+10/3	Bound States	5		Exam1
 
-10/3				
 10/10				
 10/17				
 10/24				
