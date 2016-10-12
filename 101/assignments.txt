@@ -5,8 +5,8 @@
 9/19	Forces	4-5	Lab4	Quiz4
 9/26	Newton's 3rd Law	4-5		Quiz5
 10/3	Torque and Equilibrium	7		Quiz6
+10/10	Angular Motion			Exam1
 
-10/10				
 10/17				
 10/24				
 10/31				
