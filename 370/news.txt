@@ -1,3 +1,4 @@
+10/12: [HW7.pdf Homework 7] is now available.
 10/5: The first exam and its solutions are now available online, under the Exams tab.  Feel free to ignore until after the break, if that sort of thing makes you nervous.  Enjoy your break!
 10/3: [HW6S.pdf HW6 solutions] are now available.  (I've just added a figure to problem 2.)
 10/1: Quick modification to the last problem on HW6, part b: you don't have to find k_max, just show that it is inversely proportional to L.  Don't kill yourself over it, though.

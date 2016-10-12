@@ -5,8 +5,8 @@
 9/19	Matter as Waves	4	HW5	Quiz4
 9/26	Matter as Waves	4	HW6	Quiz5
 10/3	Bound States	5		Exam1
+10/10	Bound States	5	HW7	
 
-10/10				
 10/17				
 10/24				
 10/31				
