@@ -7,7 +7,7 @@
 10/3	Torque and Equilibrium	7		Quiz6
 10/10	Angular Motion			Exam1
 
-10/17				
+10/17	Angular Motion			Quiz7
 10/24				
 10/31				
 11/7				
