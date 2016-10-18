@@ -6,8 +6,8 @@
 9/26	Matter as Waves	4	HW6	Quiz5
 10/3	Bound States	5		Exam1
 10/10	Bound States	5	HW7	
+10/17	Operators; Scattering States	5,6	HW8	Quiz6
 
-10/17				
 10/24				
 10/31				
 11/7				
