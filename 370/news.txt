@@ -1,3 +1,4 @@
+10/20: (2:55pm) Two small updates: 1) the figure in the solutions to HW7 was incorrect; I had the wavelength increasing in the wrong direction.  2) Problem 1 in HW8 is Harris 5.34, not 5.31.  And it's a 50eV electron, meaning an electron with 50eV total energy (not including rest energy--no relativity here!)
 10/12: [HW7.pdf Homework 7] is now available.
 10/5: The first exam and its solutions are now available online, under the Exams tab.  Feel free to ignore until after the break, if that sort of thing makes you nervous.  Enjoy your break!
 10/3: [HW6S.pdf HW6 solutions] are now available.  (I've just added a figure to problem 2.)
