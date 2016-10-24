@@ -6,9 +6,9 @@
 9/26	Newton's 3rd Law	4-5		Quiz5
 10/3	Torque and Equilibrium	8		Quiz6
 10/10	Angular Motion	6,7		Exam1
-
 10/17	Angular Kinematics	6,7		Quiz7
-10/24				
+10/24	Momentum	9		Quiz8
+
 10/31				
 11/7				
 11/14				
