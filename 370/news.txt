@@ -1,3 +1,4 @@
+10/31: You might be interested in reading about [https://en.wikipedia.org/wiki/Perpetual_motion Perpetual motion machines] and some of the methods that have been proposed to skirt the laws of physics.
 10/28: Here's my [http://physics.nfshost.com/3410/Diffusion/index.html diffusion demo] from class today, if you want to play with it. 
 10/20: (2:55pm) Two small updates: 1) the figure in the solutions to HW7 was incorrect; I had the wavelength increasing in the wrong direction.  2) Problem 1 in HW8 is Harris 5.34, not 5.31.  And it's a 50eV electron, meaning an electron with 50eV total energy (not including rest energy--no relativity here!)
 10/12: [HW7.pdf Homework 7] is now available.
