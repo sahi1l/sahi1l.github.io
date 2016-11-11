@@ -9,9 +9,9 @@
 10/17	Angular Kinematics	6,7		Quiz7
 10/24	Momentum	9		Quiz8
 10/31	Energy	10		Quiz9
-11/7	Thermal Energy	11		Quiz10
+11/7	Energy; Thermal Energy	11		Quiz10
+11/14	Thermal Energy	11		Exam2
 
-11/14				Exam2
 11/21				
 11/28				
 12/5				
