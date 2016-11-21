@@ -11,7 +11,7 @@
 10/31	Statistical Mechanics	9	HW10	Quiz8
 11/7	Bosons and Fermions	9		Exam2
 11/14	Solids	10	HW11	n/a
+11/21	Nuclear Physics	11	HW12	
 
-11/21				
 11/28				
 12/5				
