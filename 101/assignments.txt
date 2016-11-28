@@ -11,7 +11,7 @@
 10/31	Energy	10		Quiz9
 11/7	Energy; Thermal Energy	11		Quiz10
 11/14	Thermal Energy	11		Exam2
-11/21	Fluids	12		
+11/21	Fluids	13		
+11/28	Fluids	13		Quiz11
 
-11/28				
 12/5				
